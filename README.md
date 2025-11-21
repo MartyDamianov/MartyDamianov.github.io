@@ -1,2 +1,2 @@
-# marty.github.io
+# MartyDamianov.github.io
 Personal Website
